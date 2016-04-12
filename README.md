@@ -1,2 +1,4 @@
 # adamcone.github.io
-My GitHub IO
+ Copyright @ My Name
+## Description
+I am currently located in New York City.
